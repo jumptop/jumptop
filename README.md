@@ -22,7 +22,12 @@
     <div style="text-align: left;">
     <!-- 이 주석 태그들 사이에 GitHub Actions가 매일 통계를 업데이트합니다 -->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
     </div>
     </div>
     <div style="text-align: left;">
