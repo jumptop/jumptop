@@ -18,10 +18,17 @@
           </div>
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Weekly Coding Stats </h2> <br>
+    <div style="text-align: left;">
+    <!-- 이 주석 태그들 사이에 GitHub Actions가 매일 통계를 업데이트합니다 -->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+    </div>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:wjdghksgml5754@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjdghksgml5754@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     </div>
-    
