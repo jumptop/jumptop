@@ -42,11 +42,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         11 hrs 10 mins        ████████▒░░░░░░░░░░░░░░░░   32.90 %
-TypeScript       8 hrs 52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-Bash             2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-SQL              2 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Other            1 hr 50 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+From: 29 September 2026 - To: 06 October 2026
+
+Total Time: 30 hrs 58 mins
+
+Markdown         11 hrs 23 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.18 %
+TypeScript       9 hrs 52 mins         ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.52 %
+Bash             2 hrs 13 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.86 %
+SQL              2 hrs 7 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.59 %
+HTML             1 hr 40 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.18 %
+YAML             1 hr 35 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.93 %
+Other            1 hr 24 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.33 %
 ```
 
 <!--END_SECTION:waka-->
