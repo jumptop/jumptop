@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jumptop">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&height=60&lines=Jump%20to%20the%20Top%21%20%F0%9F%9A%80;%EB%B3%B4%EC%95%88%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20jumptop%20%EC%9E%85%EB%8B%88%EB%8B%A4;Security%20%C2%B7%20DevSecOps%20%C2%B7%20Infra%20%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&height=60&lines=Jump%20to%20the%20Top%21%20%F0%9F%9A%80;%EB%B3%B4%EC%95%88%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20jumptop%20%EC%9E%85%EB%8B%88%EB%8B%A4;Learning%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20Infra" alt="Typing SVG" />
   </a>
 </div>
 
