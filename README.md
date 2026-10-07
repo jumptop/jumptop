@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=cfcfcf&height=120&text=Jump%20to%20the%20Top!&animation=&fontColor=000000&fontSize=70" />
+  <a href="https://github.com/jumptop">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Jump+to+the+Top!+🚀;안녕하세요,+jumptop+입니다+👋;제+학습용+깃허브에+오신+걸+환영합니다!" alt="Typing SVG" />
+  </a>
 </div>
 
 <div style="text-align: left;"> 
@@ -28,7 +30,18 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Weekly Coding Stats </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📈 GitHub Stats </h2>
+  <br>
+  <div align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=jumptop&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumptop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <br/>
+    <img src="https://streak-stats.demolab.com?user=jumptop&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
+  </div>
+</div>
+
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⏱️ Weekly Coding Time (WakaTime) </h2>
   <br>
   <div>
 <!--START_SECTION:waka-->
