@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jumptop">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Jump%20to%20the%20Top%21%20%F0%9F%9A%80;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20jumptop%20%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B;%EC%A0%9C%20%ED%95%99%EC%8A%B5%EC%9A%A9%20%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90%20%EC%98%A4%EC%8B%A0%20%EA%B1%B8%20%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%21" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&height=60&lines=Jump%20to%20the%20Top%21%20%F0%9F%9A%80;%EB%B3%B4%EC%95%88%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20jumptop%20%EC%9E%85%EB%8B%88%EB%8B%A4;Security%20%C2%B7%20DevSecOps%20%C2%B7%20Infra%20%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,15 +9,11 @@
   <table>
     <tr>
       <td><b>💪 주력 언어</b></td>
-      <td><img src="https://skillicons.dev/icons?i=java" height="22" align="center" /> Java &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=py" height="22" align="center" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=c" height="22" align="center" /> C &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" height="22" align="center" /> TypeScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="22" align="center" /> Java &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="22" align="center" /> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="22" align="center" /> C &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="22" align="center" /> TypeScript</td>
     </tr>
     <tr>
       <td><b>📚 학습 예정</b></td>
-      <td><img src="https://skillicons.dev/icons?i=kotlin" height="22" align="center" /> Kotlin &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=go" height="22" align="center" /> Go</td>
-    </tr>
-    <tr>
-      <td><b>🧰 Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=spring" height="22" align="center" /> Spring &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" height="22" align="center" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=linux" height="22" align="center" /> Linux &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git" height="22" align="center" /> Git &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="22" align="center" /> GitHub</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="22" align="center" /> Kotlin &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="22" align="center" /> Go</td>
     </tr>
     <tr>
       <td><b>🎯 관심 분야</b></td>
