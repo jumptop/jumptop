@@ -1,16 +1,7 @@
 <div align="center">
   <a href="https://github.com/jumptop">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Jump+to+the+Top!+🚀;안녕하세요,+jumptop+입니다+👋;제+학습용+깃허브에+오신+걸+환영합니다!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Jump%20to%20the%20Top%21%20%F0%9F%9A%80;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20jumptop%20%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B;%EC%A0%9C%20%ED%95%99%EC%8A%B5%EC%9A%A9%20%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90%20%EC%98%A4%EC%8B%A0%20%EA%B1%B8%20%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%21" alt="Typing SVG" />
   </a>
-</div>
-
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 👋 </h2>  
-  <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    <ul>
-      <li>제 학습용 깃허브에 오신걸 환영합니다!</li>
-    </ul>
-  </div> 
 </div>
 
 <div style="text-align: left;">
@@ -35,8 +26,6 @@
   <div align="center">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=jumptop&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumptop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <br/>
-    <img src="https://streak-stats.demolab.com?user=jumptop&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
   </div>
 </div>
 
