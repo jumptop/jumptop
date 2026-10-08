@@ -20,6 +20,10 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="22" align="center" /> Spring Boot &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="22" align="center" /> NestJS</td>
     </tr>
     <tr>
+      <td><b>⚙️ DevOps &amp; Tools</b></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="22" align="center" /> Git &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="22" align="center" /> GitHub &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="22" align="center" /> GitHub Actions</td>
+    </tr>
+    <tr>
       <td><b>🎯 관심 분야</b></td>
       <td>🛡️ Security &nbsp;&nbsp; 💻 Develop &nbsp;&nbsp; 🔁 DevSecOps &nbsp;&nbsp; ☁️ Infra</td>
     </tr>
