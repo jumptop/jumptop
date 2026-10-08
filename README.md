@@ -13,11 +13,15 @@
     </tr>
     <tr>
       <td><b>📚 학습 예정</b></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="22" align="center" /> Kotlin &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="22" align="center" /> Go</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="22" align="center" /> Kotlin &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="22" align="center" /> Go &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="22" align="center" /> AWS &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="22" align="center" /> Kubernetes</td>
     </tr>
     <tr>
       <td><b>🧩 프레임워크</b></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="22" align="center" /> Spring Boot &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="22" align="center" /> NestJS</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ DevOps &amp; Tools</b></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="22" align="center" /> Git &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="22" align="center" /> GitHub &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="22" align="center" /> GitHub Actions &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="22" align="center" /> Docker &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="22" align="center" /> Linux</td>
     </tr>
     <tr>
       <td><b>🎯 관심 분야</b></td>
