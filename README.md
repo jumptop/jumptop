@@ -9,19 +9,19 @@
   <table>
     <tr>
       <td><b>💻 주력 언어</b></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22" height="22" align="center" />&nbsp;Java &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" align="center" />&nbsp;Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="22" height="22" align="center" />&nbsp;C &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" align="center" />&nbsp;TypeScript</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="22" height="22" align="center" />&nbsp;Java &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="22" height="22" align="center" />&nbsp;Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/c/c-original.svg" width="22" height="22" align="center" />&nbsp;C &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" width="22" height="22" align="center" />&nbsp;TypeScript</td>
     </tr>
     <tr>
       <td><b>📚 학습 예정</b></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="22" height="22" align="center" />&nbsp;Kotlin &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="22" height="22" align="center" />&nbsp;Go &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" align="center" />&nbsp;AWS &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="22" height="22" align="center" />&nbsp;Kubernetes</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" width="22" height="22" align="center" />&nbsp;Kotlin &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/go/go-original.svg" width="22" height="22" align="center" />&nbsp;Go &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" width="22" height="22" align="center" />&nbsp;AWS &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kubernetes/kubernetes-original.svg" width="22" height="22" align="center" />&nbsp;Kubernetes</td>
     </tr>
     <tr>
       <td><b>🧩 프레임워크</b></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="22" height="22" align="center" />&nbsp;Spring Boot &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="22" height="22" align="center" />&nbsp;NestJS</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="22" height="22" align="center" />&nbsp;Spring Boot &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nestjs/nestjs-original.svg" width="22" height="22" align="center" />&nbsp;NestJS</td>
     </tr>
     <tr>
       <td><b>⚙️ DevOps &amp; Tools</b></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22" height="22" align="center" />&nbsp;Git &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" height="22" align="center" />&nbsp;GitHub &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="22" height="22" align="center" />&nbsp;GitHub Actions &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="22" height="22" align="center" />&nbsp;Docker &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22" height="22" align="center" />&nbsp;Linux</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="22" height="22" align="center" />&nbsp;Git &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/github/github-original.svg" width="22" height="22" align="center" />&nbsp;GitHub &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="22" height="22" align="center" />&nbsp;GitHub Actions &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="22" height="22" align="center" />&nbsp;Docker &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" width="22" height="22" align="center" />&nbsp;Linux</td>
     </tr>
     <tr>
       <td><b>🎯 관심 분야</b></td>
@@ -34,8 +34,8 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📈 GitHub Stats </h2>
   <br>
   <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=jumptop&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumptop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
   </div>
 </div>
 
